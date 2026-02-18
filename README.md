@@ -23,7 +23,7 @@ Sebelum menjalankan skrip ini, kamu **HARUS** menginstal dua program berikut ter
 3. Download file bernama **`yt-dlp.exe`**
 4. Letakkan file `yt-dlp.exe` di **folder yang sama** dengan file `.bat` ini
 
-> ✅ Pastikan `yt-dlp.exe` berada satu folder dengan `SKYVEE_TECH_Downloader_all_FINAL.bat`
+> ✅ Pastikan `yt-dlp.exe` berada satu folder dengan `downloader-by-skyvee.exe`
 
 ---
 
@@ -74,7 +74,7 @@ Pastikan folder kamu terlihat seperti ini sebelum menjalankan skrip:
 
 ```
 📂 SKRIP TOOL/
-├── SKYVEE_TECH_Downloader_all_FINAL.bat  ← Skrip utama
+├── downloader-by-skyvee.exe              ← Skrip utama
 ├── yt-dlp.exe                            ← Wajib ada di sini!
 └── 📂 Downloads/                         ← Folder hasil download (otomatis dibuat)
     ├── 📂 TikTok/
@@ -87,7 +87,7 @@ Pastikan folder kamu terlihat seperti ini sebelum menjalankan skrip:
 
 ## 🚀 Cara Menjalankan
 
-1. Klik dua kali file **`SKYVEE_TECH_Downloader_all_FINAL.bat`**
+1. Klik dua kali file **`downloader-by-skyvee.exe`**
    > Jika muncul peringatan Windows, klik **"More info"** → **"Run anyway"**
 2. Pilih menu yang diinginkan dengan mengetik angka lalu tekan **Enter**
 
